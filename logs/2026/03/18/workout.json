@@ -1,0 +1,204 @@
+{
+  "date": "2026-03-18",
+  "day": "Wednesday",
+  "bodyweight_kg": 0,
+  "duration_min": 80,
+  "overall_feel": "good",
+  "notes": "Bi + Tri day. 5km cycle warmup, then cable work, DB, and preacher.",
+  "exercises": [
+    {
+      "exercise": "Stationary Cycle",
+      "muscle_group": "cardio",
+      "category": "cardio",
+      "cardio": {
+        "duration_min": 7,
+        "distance_km": 5,
+        "calories": 75
+      },
+      "notes": "Warmup ride before bi+tri session",
+      "image_path": null
+    },
+    {
+      "exercise": "Cable Bicep Curl",
+      "muscle_group": "biceps",
+      "category": "warmup",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 50,
+          "weight_kg": 15
+        }
+      ],
+      "notes": "Warmup set",
+      "image_path": null
+    },
+    {
+      "exercise": "Cable Rope Tricep Extension",
+      "muscle_group": "triceps",
+      "category": "warmup",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 50,
+          "weight_kg": 15
+        }
+      ],
+      "notes": "Warmup set",
+      "image_path": null
+    },
+    {
+      "exercise": "Cable Bicep Curl",
+      "muscle_group": "biceps",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 20,
+          "weight_kg": 20
+        },
+        {
+          "set": 2,
+          "reps": 18,
+          "weight_kg": 25
+        },
+        {
+          "set": 3,
+          "reps": 15,
+          "weight_kg": 30
+        },
+        {
+          "set": 4,
+          "reps": 12,
+          "weight_kg": 35
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    },
+    {
+      "exercise": "DB Incline Curl",
+      "muscle_group": "biceps",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 15,
+          "weight_kg": 5
+        },
+        {
+          "set": 2,
+          "reps": 12,
+          "weight_kg": 7.5
+        },
+        {
+          "set": 3,
+          "reps": 10,
+          "weight_kg": 10
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    },
+    {
+      "exercise": "Preacher Curl",
+      "muscle_group": "biceps",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 20,
+          "weight_kg": 5
+        },
+        {
+          "set": 2,
+          "reps": 18,
+          "weight_kg": 7.5
+        },
+        {
+          "set": 3,
+          "reps": 15,
+          "weight_kg": 10
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    },
+    {
+      "exercise": "Cable Rope Tricep Extension",
+      "muscle_group": "triceps",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 20,
+          "weight_kg": 20
+        },
+        {
+          "set": 2,
+          "reps": 18,
+          "weight_kg": 25
+        },
+        {
+          "set": 3,
+          "reps": 15,
+          "weight_kg": 30
+        },
+        {
+          "set": 4,
+          "reps": 12,
+          "weight_kg": 35
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    },
+    {
+      "exercise": "DB Overhead Tricep Extension",
+      "muscle_group": "triceps",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 15,
+          "weight_kg": 10
+        },
+        {
+          "set": 2,
+          "reps": 12,
+          "weight_kg": 15
+        },
+        {
+          "set": 3,
+          "reps": 10,
+          "weight_kg": 20
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    },
+    {
+      "exercise": "Cable Rope Skull Crusher",
+      "muscle_group": "triceps",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 20,
+          "weight_kg": 20
+        },
+        {
+          "set": 2,
+          "reps": 18,
+          "weight_kg": 25
+        },
+        {
+          "set": 3,
+          "reps": 15,
+          "weight_kg": 30
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    }
+  ]
+}
