@@ -1,0 +1,185 @@
+{
+  "date": "2026-03-19",
+  "day": "Thursday",
+  "bodyweight_kg": 0,
+  "duration_min": 80,
+  "overall_feel": "average",
+  "notes": "Shoulder day. 5km cycle warmup, then multi press, lateral and shrugs.",
+  "exercises": [
+    {
+      "exercise": "Stationary Cycle",
+      "muscle_group": "cardio",
+      "category": "cardio",
+      "cardio": {
+        "duration_min": 7,
+        "distance_km": 5,
+        "calories": 75
+      },
+      "notes": "Warm-up ride before Shoulder session",
+      "image_path": null
+    },
+    {
+      "exercise": "Shoulder Press",
+      "muscle_group": "shoulders",
+      "category": "warm-up",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 50,
+          "weight_kg": 10
+        }
+      ],
+      "notes": "Warm-up sets",
+      "image_path": null
+    },
+    {
+      "exercise": "Shoulder Press",
+      "muscle_group": "shoulders",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 20,
+          "weight_kg": 20
+        },
+        {
+          "set": 2,
+          "reps": 18,
+          "weight_kg": 25
+        },
+        {
+          "set": 3,
+          "reps": 15,
+          "weight_kg": 30
+        },
+        {
+          "set": 4,
+          "reps": 12,
+          "weight_kg": 35
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    },
+    {
+      "exercise": "Lateral Raises",
+      "muscle_group": "shoulders",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 20,
+          "weight_kg": 5
+        },
+        {
+          "set": 2,
+          "reps": 20,
+          "weight_kg": 7.5
+        },
+        {
+          "set": 3,
+          "reps": 15,
+          "weight_kg": 10
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    },
+    {
+      "exercise": "Cable Rear Delt Fly",
+      "muscle_group": "shoulders",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 10,
+          "weight_kg": 10
+        },
+        {
+          "set": 2,
+          "reps": 10,
+          "weight_kg": 10
+        },
+        {
+          "set": 3,
+          "reps": 10,
+          "weight_kg": 10
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    },
+    {
+      "exercise": "DB Front Raise",
+      "muscle_group": "shoulders",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 20,
+          "weight_kg": 5
+        },
+        {
+          "set": 2,
+          "reps": 15,
+          "weight_kg": 7.5
+        },
+        {
+          "set": 3,
+          "reps": 10,
+          "weight_kg": 10
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    },
+    {
+      "exercise": "Cable High Pull",
+      "muscle_group": "shoulders",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 25,
+          "weight_kg": 20
+        },
+        {
+          "set": 2,
+          "reps": 35,
+          "weight_kg": 18
+        },
+        {
+          "set": 3,
+          "reps": 45,
+          "weight_kg": 15
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    },
+    {
+      "exercise": "Shrugs",
+      "muscle_group": "shoulders",
+      "category": "strength",
+      "sets": [
+        {
+          "set": 1,
+          "reps": 15,
+          "weight_kg": 10
+        },
+        {
+          "set": 2,
+          "reps": 12,
+          "weight_kg": 15
+        },
+        {
+          "set": 3,
+          "reps": 10,
+          "weight_kg": 20
+        }
+      ],
+      "notes": "",
+      "image_path": null
+    }
+  ]
+}
